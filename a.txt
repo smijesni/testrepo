@@ -7,3 +7,5 @@ this time by Nedzad38
 this is alice (laptop) change
 
 promijenio credentiale
+
+konačno promijenio cred u git gui-ju
